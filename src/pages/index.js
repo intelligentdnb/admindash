@@ -3,7 +3,7 @@ export { default as Kanban } from './Kanban.jsx';
 export { default as Orders } from './Orders.jsx';
 export { default as Employees } from './Employees.jsx';
 export { default as Editor } from './Editor.jsx';
-export { default as Customers } from './Customers.jsx';
+export { default as Costumers } from './Costumers.jsx';
 export { default as ColorPicker } from './ColorPicker.jsx';
 export { default as Calendar } from './Calendar.jsx';
 export { default as Area } from './Charts/Area.jsx';

@@ -1,7 +1,6 @@
 export { default as Button } from './Button.jsx';
 export { default as ThemeSettings } from './ThemeSettings.jsx';
 export { default as Sidebar } from './Sidebar.jsx';
-// eslint-disable-next-line import/no-cycle
 export { default as Navbar } from './Navbar.jsx';
 export { default as Footer } from './Footer.jsx';
 export { default as Cart } from './Cart.jsx';

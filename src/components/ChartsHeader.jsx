@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Line = () => {
+const ChartsHeader = () => {
   return (
     <div>
-      Esoo
+      
     </div>
   )
 }
 
-export default Line
+export default ChartsHeader
